@@ -1,2 +1,2 @@
-# Resolucion -> Ejercicios Primera Parte (Comandos Basicos)
+echo "hola mundo" |wc
 
