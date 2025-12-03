@@ -1,2 +1,1 @@
-# Resolucion -> Ejercicios Primera Parte (Comandos Basicos)
-
+sudo useradd usuario1
